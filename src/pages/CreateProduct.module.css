@@ -1,0 +1,17 @@
+.wrapper {
+  max-width: 375px;
+}
+
+.wrapper .input {
+  margin-top: 15px;
+  display: block;
+  width: 100%;
+}
+
+.buttonWrap {
+    margin-top: 15px;
+}
+
+.buttonWrap button {
+    margin-right: 5px;
+}
